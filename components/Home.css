@@ -1,0 +1,43 @@
+.planets{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    column-gap: 75px;
+    margin: 25px;
+    padding-top: 120px;
+
+}
+.images{
+    width: 150px;
+    height: 150px;
+}
+#input{
+    width:60%;
+    height:25px;
+    padding:10px;
+    margin: auto;
+    display: block;
+}
+#saturn{
+    width: 200px;
+    height: 200px;
+}
+#uranus{
+    width: 180px;
+    height: 180px;
+}
+.container{
+    padding:10px;
+    box-sizing: border-box;
+}
+.container h1{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+.weightText{
+    color: white;
+    width: 150px;
+    text-align: center;
+    height:40px;
+}
